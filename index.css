@@ -1,0 +1,48 @@
+html, body {
+	height: 100%;
+}
+* {
+	margin: 0px;
+	padding: 0px;
+}
+.gmxRouting .leaflet-left .leaflet-control {
+    margin-top: 0px;
+    margin-left: 0px;
+	margin-bottom: 5px;
+    height: unset;
+}
+.gmxRouting .leaflet-left {
+	height: 100%;
+}
+
+.scanex-sidebar .panes > div {
+	padding: 5px;
+	width: 320px;
+	/* background-color: #fff; */
+}
+.scanex-sidebar .tabs {
+	background-color: #4c5567;
+}
+.scanex-sidebar .tabs > div {
+	padding: 15px;
+	cursor: pointer;
+}
+
+.opened {
+	color: #3ca1d0;
+}
+.closed {
+	color: #d8e1e8;
+}
+/*
+.scanex-sidebar .tabs *:hover {
+	background-color: darkgrey;
+}
+
+.scanex-sidebar {	
+	font-family: sans-serif;
+	font-size: 12px;	
+}
+
+
+*/
